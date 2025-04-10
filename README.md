@@ -1,2 +1,3 @@
 # postgreSql
-PostrgreSql Proje
+TurkStudentCo Data Science Bootcamp PostrgreSql Proje
+Ulaş CANTEPE
